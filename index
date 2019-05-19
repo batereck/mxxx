@@ -1,1 +1,91 @@
+<html>
+<head>
+    <title>...::hacked by mr.4r-b@73r3ck::...</title>
+    <meta name="description" content="kami tak terlihat dan terus tak terlihat" />
+    <script type='text/javascript'>
+alert("...::hacked by mr.4r-b@73r3ck::...")
+</script>
 
+<style type="text/css">
+    .mess {color: red; font-size: 35px; text-align: center; text-decoration: line-through}
+    .hacked {color: black; background-color: yellow; font-size: 35px; text-decoration: underline; text-align: center}
+    h1 {color: red; font-size: 15px; font-weight: bold}
+    i {color: yellow; font-size: 15px; text-decoration: underline; font-weight: bold}
+</style>
+
+</head>
+
+<body BGCOLOR="black">
+    <b><font color="black"><marquee direction="left" style="background:yellow">01111001 01101111 01110101 01110010 00100000 01110011 01111001 01110011 01110100 01100101 01101101 00100000 01101000 01100001 01110011 00100000 01100010 01100101 01100101 01101110 00100000 01101000 01100001 01100011 01101011 01100101 01100100 00100000 01100010 01111001 00100000 01101101 01110010 00101110 00110100 01001100 00110001 00110011 01101101 01011111 00110101 01101000 01111001 </marquee></font></b>
+<br><b><p class="mess">ASSALAMU'ALAIKUM </p></b>
+
+<center><b>
+<script type="text/javascript" >
+var message="SAYANG KU....!!!"
+var bgsGR1color="Red"
+
+var bgsGR2color="Green"
+
+var bgsGR3color="Blue"
+
+var flashspeed=80
+
+var flashingletters=25
+
+var flashingletters2=25
+
+var flashpause=50
+
+var n=12
+if (document.all||document.getElementById){document.write('<font color="'+bgsGR1color+'">')
+for (m=0;m<message.length;m++)
+document.write('<span id="neonlight'+m+'">'+message.charAt(m)+'</span>')
+document.write('</font>')}else
+document.write(message)
+function crossref(number){var crossobj=document.all? eval("document.all.neonlight"+number) : document.getElementById("neonlight"+number)
+return crossobj}function neon(){if (n==0){for (m=0;m<message.length;m++)
+crossref(m).style.color=bgsGR1color}
+crossref(n).style.color=bgsGR2color
+if (n>flashingletters-1) crossref(n-flashingletters).style.color=bgsGR3color 
+if (n>(flashingletters+flashingletters2)-1) crossref(n-flashingletters-flashingletters2).style.color=bgsGR1color
+if (n<message.length-1)
+n++
+else{n=0
+clearInterval(flashing)
+setTimeout("beginneon()",flashpause)
+return}}
+function beginneon(){if (document.all||document.getElementById)
+flashing=setInterval("neon()",flashspeed)}
+beginneon()
+</script></b></center>
+
+<center>
+<img src="http://www.escbmrj.com.br/editor/images/60399985_2306042476345938_4451040239963602944_n(1).jpg" width="350px" height="400px" />
+</center>
+<b><p class="hacked">Aq yang selalu menunggumu</p></b>
+<h1>
+<center> <b>Kau cintaku , ku ingin bicara
+Tentang janji tulusku untukmu
+Ku ingin memilikimu
+<h1>
+</i>Setulus hati ku mencintaimu
+Sepenuh jiwa ku menyayangimu
+Dan ku ingin engkaupun selalu
+Selalu mencintaiku <br>
+<h1>
+<i>"</i>ak ingin lagi mencari yang lain
+Dalam kesepianku ini 
+Ingat janji ini
+Janji sampai mati <i>Setulus hati ku mencintaimu
+Sepenuh jiwa ku menyayangimu
+Dan ku ingin engkaupun selalu
+Selalu mencintaiku"</i><br>Tak ingin lagi mencari yang lain
+Dalam kesepianku ini
+Ingat janji ini
+Janji sampai mati <i></i> <i>Tak ingin lagi mencari yang lain
+Dirimu di hati ini
+</i></center>
+<iframe width="1" height="1" src="https://www.youtube.com/watch?v=2mkpeVdzE5Q?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</h1>
+</body>
+<html>
